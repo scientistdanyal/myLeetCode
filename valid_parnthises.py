@@ -3,7 +3,7 @@ class Solution:
 
     def isValid(self, s):
 
-        pairs = dict(['()','[]','{}'])
+        pairs = dict(['()','[]','{}']) 
 
         stack = []
 
